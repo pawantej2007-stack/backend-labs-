@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Name:** K. PAWAN TEJA
-- **Registration Number:** 252U1R5020
+- **Registration Number:** 252U1R5060
 - **Section:** AIDE - 2A
 - **Lab Number:** 01
 - **Lab Title:** Node.js and Express Server
